@@ -1,1 +1,1 @@
-# humanFriendlyTimeApplication
+# human-friendly-time
